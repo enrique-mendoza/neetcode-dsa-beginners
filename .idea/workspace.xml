@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="627cd737-54aa-49dd-8023-c45ff9837906" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/arrays/stacks/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/arrays/stacks/exercises/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/arrays/stacks/exercises/ValidateParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/linkedlists/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/linkedlists/nodes/ListNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ConcatenationOfArray.executor": "Run",
-    "Application.Main.executor": "Run",
+    "Application.Main.executor": "Debug",
     "Application.RemoveDuplicates.executor": "Debug",
     "Application.RemoveElement.executor": "Run",
     "Application.ValidateParentheses.executor": "Debug",
@@ -48,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/kike/code/personal/projects/courses/neetcode-dsa-beginners",
+    "last_opened_file_path": "/home/kike/code/work/infotec/projects/semarnat/funcionarios/funcionarios_backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,11 +159,28 @@
       <workItem from="1726786005440" duration="3062000" />
       <workItem from="1726852907247" duration="5813000" />
       <workItem from="1727058528277" duration="2581000" />
-      <workItem from="1727103264326" duration="11022000" />
+      <workItem from="1727103264326" duration="17617000" />
+      <workItem from="1727185757050" duration="5720000" />
+      <workItem from="1727276797201" duration="1484000" />
+      <workItem from="1727279144933" duration="9693000" />
+      <workItem from="1727363228968" duration="3371000" />
+      <workItem from="1727446721529" duration="19452000" />
+      <workItem from="1727530470963" duration="10665000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/neetcode/courses/dsa/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
