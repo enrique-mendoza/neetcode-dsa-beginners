@@ -54,13 +54,12 @@ public class ReverseLinkedList {
     // time complexity O(n)
     // memomy complexity O(n)
     public static ListNode reverseListRecursive(ListNode head) {
-        ListNode newHead;
-
+        // base case first:
         if (head == null) {
             return null;
         }
 
-        newHead = head;
+        ListNode newHead = head;
 
         if (head.next != null) {
             newHead = reverseListRecursive(head.next);
@@ -73,11 +72,11 @@ public class ReverseLinkedList {
     }
 
     public static void main(String[] args) {
-        ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5)))));
+        // ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, new ListNode(4, new ListNode(5)))));
+        // ListNode reverseListTwoPointers = reverseListTwoPointers(head);
+        // System.out.println(reverseListTwoPointers);
 
-        ListNode reverseListTwoPointers = reverseListTwoPointers(head);
-        System.out.println(reverseListTwoPointers);
-
+        ListNode head = new ListNode(1, new ListNode(2, new ListNode(3, null)));
         ListNode reverseListRecursive = reverseListRecursive(head);
         System.out.println(reverseListRecursive);
     }
