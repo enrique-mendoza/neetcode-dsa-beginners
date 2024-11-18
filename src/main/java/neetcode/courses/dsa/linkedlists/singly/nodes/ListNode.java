@@ -1,4 +1,4 @@
-package neetcode.courses.dsa.linkedlists.nodes;
+package neetcode.courses.dsa.linkedlists.singly.nodes;
 
 public class ListNode {
 

@@ -1,6 +1,6 @@
-package neetcode.courses.dsa.linkedlists;
+package neetcode.courses.dsa.linkedlists.singly;
 
-import neetcode.courses.dsa.linkedlists.nodes.ListNode;
+import neetcode.courses.dsa.linkedlists.singly.nodes.ListNode;
 
 import java.util.ArrayList;
 
